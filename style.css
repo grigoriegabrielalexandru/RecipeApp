@@ -1,0 +1,22 @@
+body {
+  background: #AFEEEE;
+   padding: 0px;
+   margin: 0px;
+   font-family: 'Nunito', sans-serif;
+   font-size: 16px;
+}
+
+.main-div input {
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background: #fff;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.main-div button {
+  background: blue;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+}
